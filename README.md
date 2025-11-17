@@ -4,7 +4,7 @@ OWASP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which w
 https://owasp.org/www-project-damn-vulnerable-web-sockets/
 
 ## Requirements
-In the ```hosts``` file of your attacker machine create an entry for ```dvws.local``` to point at the IP address hosting the DVWS application.
+In the ```hosts``` file of your attacker machine create an entry for ```dvws.local``` to poifnt at the IP address hosting the DVWS application.
 
 Location of ```hosts``` file:
 
